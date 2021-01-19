@@ -2,7 +2,7 @@
 
 ## Clone this project
 
-> git clone https://github.com/MhankBarBar/whatsapp-bot
+> git clone https://github.com/estopassoli/irobot
 > npm install gify-cli -g
 > npm i
 > npm start
