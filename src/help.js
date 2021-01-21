@@ -1,13 +1,13 @@
 const help = (prefix) => {
 	return `
 
- 🤖 *iRobot Menu* 🤖
+ 🤖  | *iRobot Menu* |🤖
 
 ➸ Prefixo:  *「${prefix} 」*
 _O prefixo é um *caractere* que define as palavras em comandos_
 
      
-       🤖 *FIGURINHAS* 🤖
+🤖 *FIGURINHAS* 🤖
 
 *${prefix}figurinha* ou *${prefix}sticker*
 _converte imagem/gif em adesivo_
@@ -15,65 +15,25 @@ _converte imagem/gif em adesivo_
 *${prefix}toimg*
 _converte adesivo em imagem_
 
-       🤖 *OUTROS* 🤖
+🤖 *OUTROS* 🤖
 
- *${prefix}ocr*
+ *${prefix}totext*
 _copia o texto de uma foto e lhe envia_
-
+nota: envie a foto com o comando na legenda, ou marque uma foto e digite o comando
 *${prefix}setprefix*
+
 _alterar o prefixo do bot_
-nota: somente pode ser usado pelo proprietário do bot no caso o *Erick*
+nota: somente pode ser usado pelo proprietário do bot
 
-*${prefix}blocklist*
-_lista de numeros bloqueados pelo bot_
+🤖 *DOWNLOAD* 🤖 [NOVO]
 
+*${prefix}yt2mp3* para baixar músicas 
+_digite o comando e cole o link do vídeo do YouTube e aguarde eu converter_
 
+*${prefix}yt2mp4* para baixar vídeos 
+_digite o comando e cole o link do vídeo do YouTube e aguarde eu converter_
 
-      🤖 *GRUPO* 🤖
-      
- *${prefix}linkgroup*
-_envia o link do grupo_
-
- *${prefix}marcar*
-_marca todos os membros do grupo, incluindo administradores_
-nota: você precisa ser administrador do grupo
-
-*${prefix}simih*
-_ativa o modo Simi no grupo, é como se fosse um narrador_
-uso : *${prefix}simi 1* para ativar o modo simi e *${prefix}simi 0* para desativar o modo Simi
-*nota: você precisa ser administrador do grupo*
-
-*${prefix}add*
-_adicionar membro ao grupo_
-como usar: *${prefix}add 5585xxxxx*
-nota: o bot precisa ser admin!
-
-*${prefix}kick*
-_remove membros do grupo_
-como usar: *${prefix}kick e o @da pessoa*
-nota: você precisa ser admin e o bot também
-
-*${prefix}promote*
-_torna um membro do grupo em administrador
-como usar: *${prefix}promote e o @da pessoa*
-nota: você precisa ser admin e o bot também
-
-*${prefix}demote*
-_torna um administrador em membro comum
-como usar: *${prefix}demote e o @da pessoa*
-nota: você precisa ser admin e o bot também
-
-*${prefix}listadmin*
-_comando para listar os cornos do grupo_
-
-*${prefix}welcome*
-_quando alguém entrar no grupo o bot dá as boas vindas_
-
-╔════════════════════
-  coded by *Riquie*
-  Contato 👇
-  wa.me/5513996597134
-╚════════════════════`
+  coded by: wa.me/5513996597134'
 }
 
 exports.help = help
