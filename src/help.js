@@ -25,14 +25,6 @@ nota: envie a foto com o comando na legenda, ou marque uma foto e digite o coman
 _alterar o prefixo do bot_
 nota: somente pode ser usado pelo proprietário do bot
 
-🤖 *DOWNLOAD* 🤖 [NOVO]
-
-*${prefix}yt2mp3* para baixar músicas 
-_digite o comando e cole o link do vídeo do YouTube e aguarde eu converter_
-
-*${prefix}yt2mp4* para baixar vídeos 
-_digite o comando e cole o link do vídeo do YouTube e aguarde eu converter_
-
   coded by: wa.me/5513996597134`
 }
 
