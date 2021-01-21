@@ -33,7 +33,7 @@ _digite o comando e cole o link do vídeo do YouTube e aguarde eu converter_
 *${prefix}yt2mp4* para baixar vídeos 
 _digite o comando e cole o link do vídeo do YouTube e aguarde eu converter_
 
-  coded by: wa.me/5513996597134'
+  coded by: wa.me/5513996597134`
 }
 
 exports.help = help
