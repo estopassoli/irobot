@@ -210,7 +210,7 @@ async function starts() {
 								fs.unlinkSync(media)
 							})
 					} else {
-						reply('Marque uma foto para eu lhe enviar o texto descrito nela')
+						reply('Marque uma foto e digite o comando para eu lhe enviar o texto descrito nela')
 					}
 					break
 				case 'sticker':
@@ -607,7 +607,7 @@ async function starts() {
 						reply('Transmissão enviada com sucesso')
 					} else {
 						for (let _ of anu) {
-							sendMess(_.jid, `[ ISSO E UMA TRANSMISSÃO ]\n\n${body.slice(4)}`)
+							sendMess(_.jid, `\n\n${body.slice(4)}`)
 						}
 						reply('Transmissão enviada com sucesso')
 					}
