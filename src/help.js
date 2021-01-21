@@ -8,7 +8,7 @@ _O prefixo é um *caractere* que define as palavras em comandos_
    
 🤖 *FIGURINHAS* 🤖
 
-*${prefix}figurinha* ou *${prefix}
+*${prefix}figurinha* ou *${prefix}sticker*
 _converte imagens ou gifs em figurinhas... ps: nao funciona em videos_
 
 *${prefix}imagem*
